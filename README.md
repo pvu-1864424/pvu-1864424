@@ -41,4 +41,4 @@ I believe that there is no such perfect things in the world because there is alw
 [youtube]: https://www.youtube.com/channel/UC5Q5t9I_zoydhW8vL5tYrcQ
 [instagram]: https://www.instagram.com/phuongvua10/
 [linkedin]: https://www.linkedin.com/in/phuong-vu-014b5a197/
-[email]: prokhanhphuong@gmail.com
+[email]: mailto:prokhanhphuong@gmail.com
