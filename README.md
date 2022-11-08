@@ -5,7 +5,7 @@ Welcome to my personal porfolio on Github! I am Phuong K Vu. I am very pleased a
 My name is Phuong Vu. My pronounces are he/him/his.  I am an incoming senior studying Computer Science and Software Engineering at [University of Washington](https://www.uwb.edu). I am a curious and meticulous programmer. I am open to new logics, ideas and lessons from various new projects. Some fun facts about me are:
 - :computer: I am currently learning Web Client-Side Development.
 - :two_men_holding_hands: I am always open to collaborate with other programmers/creators.
-- :raising_hand: I am the most efficient when I am in a innovative and laid-back environment, where I can contribute to have positive impact upon the society. In addition, I am not afraid of new or challenging projects because I know the only way to become a better software engineer is to tackle and overcome new materials and hardships, which also offers me opportunities to learn, grow, self-taught and self-actualization. 
+- :raising_hand_man: I am the most efficient when I am in a innovative and laid-back environment, where I can contribute to have positive impact upon the society. In addition, I am not afraid of new or challenging projects because I know the only way to become a better software engineer is to tackle and overcome new materials and hardships, which also offers me opportunities to learn, grow, self-taught and self-actualization. 
 - :floppy_disk: I am interested in front-end, back-end, UX/UI designer, web programmer, software engineer, or program manager position.
 - :rainbow: I am in the LGBT+ community
 - :airplane: I love traveling to different places. Thus, I do not mind relocating to different cities, or even countries for my job.
@@ -13,3 +13,6 @@ My name is Phuong Vu. My pronounces are he/him/his.  I am an incoming senior stu
 ## Connect with me:
 
 ## Languages and Tools:
+
+## Projects Feedback:
+I believe that there is no such perfect things in the world because there is always something about it can be improved further. Please share with me what you think about my projects or what you like/dislike about them! :pray: Your criticism and constructive feedback would mean a lot to me as they help me open up to new perspective and knowledge, as well as grow to become a better Software Engineer :man_technologist:
