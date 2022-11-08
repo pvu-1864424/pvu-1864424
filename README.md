@@ -12,15 +12,17 @@ My name is Phuong Vu. My pronounces are he/him/his.  I am an incoming senior stu
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/profile.php?id=100009687619401]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/phuongvua10/]
-[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/phuong-vu-014b5a197/]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
 ## Languages and Tools:
 
 ## Projects Feedback:
 I believe that there is no such perfect things in the world because there is always something about it can be improved further. Please share with me what you think about my projects or what you like/dislike about them! :pray: Your criticism and constructive feedback would mean a lot to me as they help me open up to new perspective and knowledge, as well as grow to become a better Software Engineer :man_technologist:
 
-[twitter]: https://twitter.com/dukiee2k
+[facebook]: https://www.facebook.com/profile.php?id=100009687619401
 [youtube]: https://www.youtube.com/channel/UC5Q5t9I_zoydhW8vL5tYrcQ
-[instagram]: https://www.instagram.com/minhduc.xlr8/
+[instagram]: https://www.instagram.com/phuongvua10/
+[linkedin]: https://www.linkedin.com/in/phuong-vu-014b5a197/
