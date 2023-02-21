@@ -10,7 +10,8 @@ My name is Charles Vu. My pronounces are he/him/his.  I am a senior studying Com
 - :rainbow: I am in the LGBT+ community
 - :airplane: I love traveling to different places. Thus, I do not mind relocating to different cities, or even countries for my job.
 
-## Check out my portfolio: [Charles Vu's Portfolio Website](https://pvu-1864424.github.io)
+## Check out my portfolio: 
+[Charles Vu's Portfolio Website](https://pvu-1864424.github.io)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/youtube-circle.png" />][youtube]
