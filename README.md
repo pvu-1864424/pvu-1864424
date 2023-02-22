@@ -1,4 +1,4 @@
-# Phuong (Chalres) Vu's portfolio on Github
+# Phuong (Chales) Vu's portfolio on Github
 Welcome to my personal portfolio on Github! I am Phuong K Vu. I am very pleased and excited that you are checking out my projects! Please let me know if you have any questions about my projects, me or simply want to make new friends :grin:
 
 ## Who am I? 
